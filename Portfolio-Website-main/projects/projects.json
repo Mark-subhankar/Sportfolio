@@ -1,0 +1,52 @@
+[{
+        "name": "WordCounter using REACT",
+        "desc": "Online word counter with uppercase/lowercase, color change, pronunciation, save, vowel/consonant count, and reading time features.",
+        "image": "WordCounter",
+        "category": "react",
+        "links": {
+            "view": "https://wordcounter024875.netlify.app",
+            "code": "https://github.com/Mark-subhankar/WordCounter"
+        }
+    },
+    {
+        "name": "NoteCloud MERN",
+        "desc": "NoteCloud, a MERN Stack app, securely stores important notes. Privacy is prioritized for your sensitive data. It features seamless CRUD operations",
+        "image": "notecloud",
+        "category": "mern",
+        "links": {
+            "view": "https://noteclouds.netlify.app",
+            "code": "https://github.com/Mark-subhankar/NoteCloud"
+        }
+    },
+    {
+        "name": "E-Commerce MERN",
+        "desc": "Secure E-commerce: Firebase, Redux, Tailwind CSS, Razorpay, ReactJS, NodeJS. User-friendly, vast product selection, seamless transactions.",
+        "image": "E-commerce",
+        "category": "mern",
+        "links": {
+            "view": "https://my-eommerce.netlify.app",
+            "code": "https://github.com/Mark-subhankar/My-E-Commerce"
+        }
+    },
+
+    {
+        "name": "MovieHub MERN",
+        "desc": "Full-Stack movieHub built using MERN stack and latest updated movie Available in our website",
+        "image": "moviehub",
+        "category": "mern",
+        "links": {
+            "view": "https://onlinemoviehub.netlify.app",
+            "code": "https://github.com/Mark-subhankar/MovieHub/tree/main"
+        }
+    },
+    {
+        "name": "Password Generator Using Javascript",
+        "desc": "Password generators create strong, varied passwords with characters, numbers, and symbols, boosting online security. Tools like 1Password, Dashlane, and LastPass ensure robust protection.",
+        "image": "passwordGen",
+        "category": "javascript",
+        "links": {
+            "view": "https://password-generator5064.netlify.app",
+            "code": "https://github.com/Mark-subhankar/Unique-Password-Generator"
+        }
+    }
+]
